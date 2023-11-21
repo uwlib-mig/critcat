@@ -1,7 +1,5 @@
-# critcat
-Critical Cataloging, Archival Description, and Metadata Working Group
-Critical Cataloging, Archival Description, and Metadata Working Group (CritCat) charge.
-
+# Critical Cataloging, Archival Description, and Metadata Working Group
+## Group Charge
 The Critical Cataloging, Archival Description, and Metadata Working Group is made up of members from across the library interested in reparative description. It is a self selected, non-formal group within the libraries. 
 
 The CritCat working group meets on an as-needed basis minimally meeting on a quarterly basis.  The CritCat meetings are intended for the members to report out on special projects, monitor the Feedback Form: UW Libraries Harmful Language in Descriptive Resources (Responses), and maintain the group GitHub/SharePoint presence, blog, and StaffWeb site. Meetings are organized by co-chairs.
