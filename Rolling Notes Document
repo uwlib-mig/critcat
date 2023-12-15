@@ -11,4 +11,15 @@ There is precident or crystals proposal--when they were changeing the subject fo
 All of the instances of the non-preferred term are contained in ContentDM 
 All of the text items originate from UWSC but all of the images except for one come from the Spokane museum with one from the Jesuite archives
 Will need to add a to do item to send the email after we did it - itll be nice to be able to point them to a publically avaiable map like with the Harriman project
-
+To do the wikidata route--we would need to add another field in ContentDM which we cant do on our own
+Can we batch upload the deprecated value field?
+Elaine will do the title and notes fields
+Crystal can do the subject terms 
+Could we do this in a spreadsheet and have a duplicate column for the proposed change? Elaine thinks title and notes can do a find and replace. for the subject headings we could do that--other than to keep a copy of the before changes.
+We might not need to -- if there aren't too many subjects we need to change then we won't need to track. But the subjects are subdevided and the proposal will require remkoving 16 terms and replacing with equivalent wikidata 
+John V arrives - Crystal asks if we can remove indian from it and wants to know if they prefer people/tribe or just the name. John says just the name. 
+Crystal notices its wrong in wiki data 
+Are we changing the term Coeur d'Alene or adding? Pretty sure just adding. John V is going to check with Audra "I received some feedback from Audra of which you're probably aware but I need to pass along anyway. Virtually all of the ContentDM material used the term "Skitswish" to refer to the Coeur d'Alene Tribe. Audra let me know that this term is what outsiders used to refer to them. They prefer the term "Schitsu’umsh" so that's an update you may want to consider implementing and use for any new metadata if you aren't already." 
+The harmful term is also in wiki data and needs to be taken out as well 
+So what we have discovered is that the non-preffered term is not even a LCSH heading - is Cour d'Alene their preffered term? all we need to do on the subject heading front then is update the subject heading. 
+Crystal can do subject headings now now - we will need to check in with Anne Grahm about the bulk upload of depricated values. 
