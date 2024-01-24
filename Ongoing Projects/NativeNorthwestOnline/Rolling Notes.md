@@ -24,3 +24,17 @@ _December 14, 2023-_
 #### Follow-up Plan
 * All of the text items originate from UWSC but all of the images except for one come from the Spokane museum with one from the Jesuite archives
 * Crystal added an issue to send the email after we complete the project - it'll be nice to be able to point them to a publically avaiable map like with the Harriman project. Elaine volunteered to send follow-up emails
+
+#### January 24, 2024
+
+* Skitswish still appearing in some subject terms- possibly got reverted during title/description updates- note for next time: do spreadsheet before subject headings, or pull data after subject headings updated, may overwrite subject head updates - other solution is include "--" in find and replace field to ensure all instances are captured.
+* Elaine to do final review by EOD to ensure all instances changed on public-facing pages
+
+* Landing page- Kat will share out any remaining question
+
+* Letter to museum-draft written by Elaine and Crystal, to be shared with Kat, when ok'd send to museum
+
+* Project report and blog post-Crystal created individual tasks in the github for next items to complete. Project report to be completed first, then blog post.
+* Stakeholders to be contacted- listed in project summary.
+
+* Crystal to update subject terms based on notes- completed 1/24/2024
