@@ -1,6 +1,6 @@
 # Harmful-language Remediation Project: Harriman Alaska Expedition of 1899 (digital and archival collections)
 
-## Project scope and links
+## Scope (with links)
 - CONTENTdm item-level metadata: See digital collection [Harriman Alaska Expedition of 1899](https://content.lib.washington.edu/harrimanweb/index.html)
 - CONTENTdm collection Front pages, see: 
     - [Harriman Alaska Expedition of 1899](https://content.lib.washington.edu/harrimanweb/index.html)
@@ -10,10 +10,10 @@
 - Physical archival collection MARC record: See UWL Primo > [A souvenir of the Harriman Alaska Expedition : May-August 1899.](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99106526410001452)
 - Local 'copy-negative' database (not publicly available)
 
-## Project goal
+## Goal
 > Remove the harmful term 'Eskimo' as used in the collection to refer to Indigenous people living in Alaska and Siberia
 
-## Project members
+## Project team members
 - Susan Fitch, Archives Specialist
 - Anne Graham, Senior Computer Specialist
 - Junghae Lee, E-resources Metadata Librarian
@@ -22,11 +22,11 @@
 - Benjamin Riesenberg, Metadata Librarian (project manager)
 - Crystal Yragui, Book Arts and Science Cataloger
 
-## Project timeline
+## Timeline
 - Project start date: 2023-03-08
 - Project end date: 2023-11-29
 
-## Project data 
+## Data 
 
 ### Digital collection metadata change history
 - Working document - changes in fields containing term for remediation: [CONTENTdm_working_spreadsheet_harriman.csv](https://github.com/uwlib-mig/critcat/blob/main/Past_Projects/Harriman/CONTENTdm_working_spreadsheet_harriman.csv)
