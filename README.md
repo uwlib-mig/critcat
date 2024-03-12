@@ -1,4 +1,5 @@
 # Critical Cataloging, Archival Description, and Metadata Working Group
+
 ## Group Charge
 The Critical Cataloging, Archival Description, and Metadata Working Group is made up of members from across the library interested in reparative description. It is a self selected, non-formal group within the libraries. 
 
@@ -11,3 +12,7 @@ Meeting Minutes to be updated annually
 GitHub will be updated continuously throughout the projects
 
 Members of the working group participate in meetings and volunteer to work on special project groups. Members will be asked to manage special projects and follow the workflow for remediating description. 
+
+## See also
+- [Best Practices for CritCat Metadata Remediation Projects](best_practices.md)
+- [DRAFT Template: CritCat Remediation Project Checklist](checklist.md)
